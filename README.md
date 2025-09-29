@@ -9,3 +9,5 @@ This project explores how reading is taught—and who gets left behind. From the
 The story begins with children behind their screens during COVID, classrooms dissolving into pixels and parents struggling to teach reading at home. From there, the project unspools the long struggle between “natural” reading methods and structured phonics, showing how policy fads collide with the realities of poverty. It revisits the early 2000s, when No Child Left Behind tried to engineer results with testing and funding incentives, and traces the widening literacy gap across states. Against this backdrop, Louisiana and Mississippi emerge as case studies in reversal: low-performing states that turned literacy outcomes upward through systematic phonics and teacher retraining. The narrative closes with the economic dimension: literacy not only drives opportunity but correlates with GDP growth, magnifying wealth disparities when children fall behind.
 
 <iframe src="chart_pct_local_funded.html" width="100%" height="600" style="border:none;"></iframe>
+
+[Colab notebook](https://colab.research.google.com/drive/1pZxP1LmTtmIGfTEV_d9xLhCsKPrJABAc?usp=sharing)
