@@ -4,7 +4,7 @@
 
 This project explores how reading is taught—and who gets left behind. From the “balanced literacy” debates of the early 2000s to the recent return of phonics, we look at how methods collide with poverty, screens, and political will. We track the uneven impacts of COVID on children’s literacy, the widening wealth gap, and the federal mandates of No Child Left Behind. We pay close attention to Louisiana and Mississippi, where coordinated policy turned scores around, and to Texas, where rapid growth has meant uneven outcomes.
 
-<iframe src="chart_pct_local_funded.html" width="100%" height="600" style="border:none;"></iframe>
+<iframe src="pct_local_funded.html" width="100%" height="600" style="border:none;"></iframe>
 
 <iframe src="ussd23_by_state.html" width="100%" height="600" style="border:none;"></iframe>
 
